@@ -5,7 +5,7 @@
 ⏹️ Description</h2>
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
-This project goes over how to enable Advanced Features when using Active Directory Users and Computers. When an administrator enables Advanced Features it allows them to see and modify hidden objects, tabs, and attributes, enhancing management capabilities in Active Directory Users and Computers.
+This project goes over how to enable Advanced Features when using Active Directory Users and Computers. When an administrator enables Advanced Features, it allows them to see and modify hidden objects, tabs, and attributes, enhancing management capabilities in Active Directory Users and Computers.
 </b>
 
 
